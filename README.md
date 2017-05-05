@@ -1,4 +1,4 @@
-![Photo of Smith College, Students, and Space slide of PowerPoint](images/arcGISpresentation.png)
+![Photo of slide showing soil, parcel, zoning, and civil divisions GIS layers](images/arcGISpresentation.png)
 
 Resources for learning ArcGIS:
 
