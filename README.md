@@ -1,4 +1,4 @@
-[![Photo of Smith College, Students, and Space slide of PowerPoint](images/arcGISpresentation.png)]
+![Photo of Smith College, Students, and Space slide of PowerPoint](images/arcGISpresentation.png)
 
 Resources for learning ArcGIS:
 [Instructions for ArcGIS Desktop (2015)](https://docs.google.com/document/d/1MNovLQ6-L0dEcASjyVkQPDqBbryUI9wkwadlDZSBBMY/)
