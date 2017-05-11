@@ -6,4 +6,4 @@ Resources for learning ArcGIS:
 
 [Intro to GIS with ArcGIS for Desktop Slide Show](https://docs.google.com/presentation/d/1PfBUgwKO7AY3rz34YPd7xRsHoDlVApKdms66itQHCyo/)
 
-[GIS at the University of Michigan Library LibGuide](http://guides.lib.umich.edu/learnarcgis)
+[GIS at the University of Michigan Library LibGuide](http://guides.lib.umich.edu/c.php?g=283027&p=1885766)
