@@ -1,4 +1,4 @@
-![Photo of slide showing soil, parcel, zoning, and civil divisions GIS layers](images/arcGISpresentation.png)
+![Photo of slide showing soil, parcel, zoning, and civil divisions GIS layers](https://github.com/clarkdatalabs/arc_gis)
 
 ESRI, the makers of ArcGIS for Desktop, ArcGIS Pro, and ArcGIS Online, as well as other products, have a tremendous amount of learning material available to support the use of their tools.
 
